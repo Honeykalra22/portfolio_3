@@ -1,0 +1,14 @@
+/* .image::after{
+    content: ''; 
+    background: url('https://cdn.pixabay.com/photo/2024/03/24/17/10/background-8653526_960_720.jpg')  
+        no-repeat center center/cover; 
+    position: absolute; 
+    opacity: 0.6; 
+    background: gray;
+    top: 0px; 
+    left: 0px; 
+    width: 100vw; 
+    height: 100vh; 
+    z-index: -1; 
+    
+} */
